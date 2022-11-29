@@ -5,30 +5,35 @@ html {
     font-size: 10px;
 }
 
+body {
+    background-color: whitesmoke;
+}
+
 #main {
     margin: 3rem .8rem;
-    padding: px;
+    padding: 2rem 1rem;
     border-radius: 5px;
-    background: #eee;
+    background: #F0E8EA;
 }
 
 #title {
     text-align: center;
     font-weight: 700;
     font-size: 4rem;
-    padding: 2.5rem .5rem 1.6rem;
+    padding: 2.4rem .5rem 1.6rem;
     margin: 0;
 }
 
 #main p {
     text-align: center;
     font-size: 2rem;
-    margin: 0;
+    margin: 2rem;
 }
 
 #img-div {
     padding: 1.5rem;
     background-color: white;
+    border-radius: 1rem;
 }
 
 #image {
@@ -41,4 +46,21 @@ html {
 #img-caption {
     margin: .5rem auto;
     font-size: 1.6rem;
+}
+
+#about {
+    margin: auto;
+}
+
+#about .info-about {
+    padding: 2rem 4rem;
+    font-size: 1.8rem;
+}
+
+#tribute-info {
+    background-color: whitesmoke;
+    margin: 1.5rem 0;
+    padding: 1rem;
+    font-size: 2rem;
+    text-align: center;
 }
