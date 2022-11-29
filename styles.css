@@ -6,7 +6,7 @@ html {
 }
 
 body {
-    background-color: whitesmoke;
+    background-color: #f5f5f5;
 }
 
 #main {
@@ -32,7 +32,7 @@ body {
 
 #img-div {
     padding: 1.5rem;
-    background-color: white;
+    background-color: #ffffff;
     border-radius: 1rem;
 }
 
@@ -58,7 +58,7 @@ body {
 }
 
 #tribute-info {
-    background-color: whitesmoke;
+    background-color: #f5f5f5;
     margin: 1.5rem 0;
     padding: 1rem;
     font-size: 2rem;
